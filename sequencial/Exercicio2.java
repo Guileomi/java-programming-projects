@@ -1,4 +1,4 @@
-package pratica;
+package sequencial;
 
 import java.util.Scanner;
 
